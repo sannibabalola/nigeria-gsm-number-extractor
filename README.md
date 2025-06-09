@@ -15,4 +15,4 @@ This Python script extracts Nigerian phone numbers from copied text using regula
 1. Copy a block of text containing Nigerian phone numbers.
 2. Run the script:
    ```bash
-   python extractor.py
+   python Nigeria Gsm Number Extractor.py
